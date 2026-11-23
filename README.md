@@ -1,3 +1,10 @@
+<picture>
+  <source media="(prefers-reduced-motion: no-preference)" srcset="./project-scan.gif">
+  <img src="./project-static.png" width="1056" alt="ShadePath ASCII project diagram">
+</picture>
+
+Compare walking routes using travel-time and heat estimates. Missing temperature values use synthetic estimates.
+
 # ☀️ The Shady Side
 
 > **Navigation where heat is part of the terrain.**
